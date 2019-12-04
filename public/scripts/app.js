@@ -257,4 +257,6 @@ function init() {
       .addEventListener('click', addLocation);
 }
 
+
+
 init();
